@@ -8,7 +8,7 @@ PLAY PS4 GAMES BY KEYBOARD/MOUSE OR XBOX360 CONTROLLER GUIDE
 	+ MS Xbox360 assistant tools: http://download.microsoft.com/download/6/9/4/69446ACF-E625-4CCF-8F56-58B589934CD3/Xbox360_64Eng.exe
 	+ PS Remote play: https://remoteplay.dl.playstation.net/remoteplay/module/win/RemotePlayInstaller.exe
 
-- For only using XBox360 Controller	
+# [For only using XBox360 Controller]
 - Installation Manual:
 	+ Install PS Remote Play
 	+ Install MS Xbox360 assistant tools
@@ -25,7 +25,8 @@ PLAY PS4 GAMES BY KEYBOARD/MOUSE OR XBOX360 CONTROLLER GUIDE
 	+ In PS remote play windows, choose settings (left-bottom corner) and set Resolution to Low and FrameRate to Standard. This setting will make sure your control signal is not affected when you run in slow connection
 	+ At now, it's done :) . Enjoy PS4 by your XBox Controller
 	
-- For KB/Mouse: this idea is using Virutual Controller software to Emulate XBox360 Controller botton and stick by KB and Mouse
+# [For KB/Mouse]
+- This idea is using Virutual Controller software to Emulate XBox360 Controller botton and stick by KB and Mouse
 - Installation Manual:
 	+ Install Virtual Controller
 	+ Install PS Remote Play
