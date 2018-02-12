@@ -1,6 +1,13 @@
 # Manual GUIDE
 Using Xbox360 Controller and Keyboard/Mouse to control remote play PS4
 
+# Automatic Install (Windows 10 or PowerShell 5 only)
+- Download installscript.ps1
+- Open PowerShell Console (AS ADMINISTRATOR)
+- cd to installscripts.ps1 folder you downloaded
+- run .\installscripts.ps1
+
+# Manual Download and Install
 PLAY PS4 GAMES BY KEYBOARD/MOUSE OR XBOX360 CONTROLLER GUIDE
 - Download Follow Tools:
 	+ Virtual Controller (Only Need for KB/Mouse): https://nchc.dl.sourceforge.net/project/vjoy-controller/Virtual%20Controller%20v1051%20Setup.exe
