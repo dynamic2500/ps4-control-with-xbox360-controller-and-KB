@@ -11,7 +11,7 @@ Using Xbox360 Controller and Keyboard/Mouse to control remote play PS4
 PLAY PS4 GAMES BY KEYBOARD/MOUSE OR XBOX360 CONTROLLER GUIDE
 - Download Follow Tools:
 	+ Virtual Controller (Only Need for KB/Mouse): https://nchc.dl.sourceforge.net/project/vjoy-controller/Virtual%20Controller%20v1051%20Setup.exe
-	+ VDX (the tool from Vigem): https://downloads.vigem.org/stable/latest/windows/x86_64/VDX_x86_x64_latest.zip
+	+ VDX (the tool from Vigem): https://downloads.vigem.org/archive/VDX_x86_x64_latest.zip
 	+ MS Xbox360 assistant tools: http://download.microsoft.com/download/6/9/4/69446ACF-E625-4CCF-8F56-58B589934CD3/Xbox360_64Eng.exe
 	+ PS Remote play: https://remoteplay.dl.playstation.net/remoteplay/module/win/RemotePlayInstaller.exe
 
