@@ -12,7 +12,7 @@ function Is-Installed( $program ) {
 
 ########### declare resource url
 $virtualControlurl = "https://nchc.dl.sourceforge.net/project/vjoy-controller/Virtual%20Controller%20v1051%20Setup.exe"
-$vdx = "https://downloads.vigem.org/stable/latest/windows/x86_64/VDX_x86_x64_latest.zip"
+$vdx = "https://downloads.vigem.org/archive/VDX_x86_x64_latest.zip"
 $msxboxacc = "http://download.microsoft.com/download/6/9/4/69446ACF-E625-4CCF-8F56-58B589934CD3/Xbox360_64Eng.exe"
 $psrplay = "https://remoteplay.dl.playstation.net/remoteplay/module/win/RemotePlayInstaller.exe"
 $tmpdir = "c:\remoteplaydownload"
